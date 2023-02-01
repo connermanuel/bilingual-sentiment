@@ -1,0 +1,10 @@
+# Template files
+__pycache__
+.ipynb_checkpoints
+
+# My stuff
+data
+models
+raw_data
+
+
